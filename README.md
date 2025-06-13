@@ -1,6 +1,2 @@
 # PrasanthParaman
-Hi there!! A brief information about me:
-- <b>Learning</b> : Full Stack Data Science 🔥
-- <b>Languages</b> : Python, LabVIEW, C
-- <b>Hobbies</b> : Music & Current Affairs 🎧 📰
-- <b>DREAM BIG >> ACHIEVE BIG</b>
+Hi there! If you’re interested in analytics, intelligent systems, or generative AI, feel free to reach out at dparaman0111@gmail.com—I’d love to connect over a virtual coffee chat!
